@@ -1,4 +1,5 @@
 Predictive Maintenance for Manufacturing
+
 ##Goal##
 The goal of this project is to predict machinery failures before they occur using machine learning techniques. This helps reduce unplanned downtime, optimize maintenance schedules, and improve overall operational efficiency in manufacturing environments.
 
@@ -28,6 +29,7 @@ XGBoost
 Support Vector Machine (SVM)
 Logistic Regression
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+
 Model Interpretability (e.g., SHAP values)
 ├── data/                   # Raw and processed data
 ├── notebooks/              # Jupyter notebooks with EDA and modeling
